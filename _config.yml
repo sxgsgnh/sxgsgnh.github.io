@@ -2,9 +2,9 @@
 title: SGNH个人博客 
 url: "http://sxgsgnh.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
-timezone: Asia/Chongqing
+#timezone: Asia/Chongqing
 description: >
-		述说个人心情和学习心得的树洞！
+        述说个人心情和学习心得的树洞！
 
 # Your information
 email: sxgsgnh@sina.com
